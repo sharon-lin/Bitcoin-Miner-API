@@ -7,3 +7,7 @@ $ python main.py
 ```
 
 Go to http://127.0.0.1:5000/ to see your satoshi grow! 
+
+## Notes
+
+Created for the Hack Club Useless API Challenge
