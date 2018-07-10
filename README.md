@@ -1,2 +1,9 @@
-# Bitcoin-Miner-API
-Mine Bitcoin securely in your browser! With our totally anonymized mining algorithm, there are absolutely no records of the relationships of blocks, making all of your transactions 100% secure!
+# Bitcoin Miner API
+
+To run this API, simply run the following in your console:
+
+```
+$ python main.py
+```
+
+Go to http://127.0.0.1:5000/ to see your satoshi grow! 
