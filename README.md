@@ -8,6 +8,6 @@ $ python main.py
 
 Go to http://127.0.0.1:5000/ to see your satoshi grow!
 
-![Bitcoin Miner API](bitcoinminer.mp4)
+![Bitcoin Miner API](bitcoinminer.gif)
 
 (Created for the Hack Club Ridiculous API Challenge.)
